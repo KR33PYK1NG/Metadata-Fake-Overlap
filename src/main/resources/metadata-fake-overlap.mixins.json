@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "metadata-fake-overlap.refmap.json",
+    "package": "rmc.mixins.metadata_fake_overlap.inject",
+    "mixins": [
+        "PlayerMetadataStoreMixin"
+    ]
+}
